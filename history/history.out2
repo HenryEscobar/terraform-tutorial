@@ -1,0 +1,330 @@
+    1  ls
+    2  df -k
+    3  uname -a
+    4  ls -la .ssh
+    5  pwd
+    6  wsl -l
+    7  uname -a
+    8  ls ~escobar
+    9  history
+   10  service sshd start
+   11  sudo service ssh start
+   12  ls
+   13  cd
+   14  cd ls -la
+   15  mkdir .ssh
+   16  chmod 700 .ssh
+   17  cd .ssh
+   18  ls
+   19  cat > authorized_keys
+   20  ls -la
+   21  chmod 700 authorized_keys 
+   22  ls -al
+   23  service sshd status
+   24  service ssh status
+   25  sudo service sshstart
+   26  sudo service ssh start
+   27  sudo apt remove openssh-server
+   28  sudo apt install openssh-server
+   29  sudo apt remove openssh-server
+   30  sudo apt install openssh-server
+   31  sudo apt install openssh
+   32  sudo apt install ssh
+   33  sudo apt install ssh --fix-missing
+   34  sudo apt-get update
+   35  sudo apt install openssh
+   36  sudo apt install openssh-server
+   37  sudo service ssh start
+   38  ls
+   39  cd .ssh
+   40  ssh-keygen 
+   41  cat id_rsa
+   42  cat id_rsa.pub 
+   43  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDr2JUh8UDlDNt0E3NpBrHWT7HmpBPNkoMJBAeoO8MMp1ZoYm2RTiU1e0LuC4ENiuqKpkIRXyDGnoUSL0FQFuBhjhcWI5P80sexbu71MB2VIX5wif9/stobwRm+ZlcUVPWLY9JHoc6dEIGnlulxXSFZoUTl052Y+bTAb6SGPepBiC0egLLEC0jdV6S/sSgMgtO6d/w+0fCXteHivDIMsbC6QIiarUJneSA0wBAcaL8tENRa0KOWrTKQmd2e4KhHnbq/3dW6Aq/2mlAU1W36lRXcvqu/1gtiwRTZSEC9Veeg7FsnXnuMrjYVpun/QnYGE0A72QMiLKVFdvhCi+PO3ZbKU9vlyMCDrqWjL3IE2fDOFSaw3nyHvj/udKv3jMGD2U101yLyL0dbQBBq92X/G3mOA5DFmUycbqOa10JhmyM0lhINK6xVnFa8j7BFF/8juUeiSImDxFkPml+W0BP0uL5iBUV5MHuBkxnGJ6XPi4DXLaoO1dGPak0xgD1XkTjuUZE= escobar@tuf-laptop
+   44  cd
+   45  cd irad
+   46  mkdir irad
+   47  cd irad/
+   48  get clone git@github.com:HenryEscobar/shellEnvironment.git
+   49  git clone git@github.com:HenryEscobar/shellEnvironment.git
+   50  ls
+   51  cd shellEnvironment/
+   52  vi In
+   53  vi INSTALL.sh 
+   54  sh INSTALL.sh 
+   55  tmux
+   56  ls
+   57  exit
+   58  pwd
+   59  ls
+   60  cd irad
+   61  ls
+   62  mkdir default.code-workspace
+   63  rmdir default.code-workspace
+   64  mkdir  pluginsminecraft-com
+   65  cd pluginsminecraft-com/
+   66  ls
+   67  mkdir restinpieces
+   68  cd ..
+   69  ls
+   70  cd ..ls
+   71  cd ..
+   72  cd ..
+   73  ls
+   74  cd restinpieces/
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd ..
+   79  ls
+   80  cd test_mc/
+   81  ls
+   82  cd plugins/
+   83  ls
+   84  ls
+   85  rm demo-1.0-SNAPSHOT.jar 
+   86  ls
+   87  cp /tmp/restinpieces-1.0-SNAPSHOT.jar .
+   88  cd ..
+   89  ls
+   90  ./startup.sh 
+   91  ls
+   92  ls
+   93  ls -lt
+   94  rm demo-1.0-SNAPSHOT.jar 
+   95  ls
+   96  ls -l
+   97  pwd
+   98  cd plugins/
+   99  ls
+  100  ls -al
+  101  pwd
+  102  ls
+  103  cd ..
+  104  ls
+  105  ls *jar
+  106  ./startup.sh 
+  107  ./startup.sh 
+  108  vi startup.sh 
+  109  ls
+  110  rm plugins/demo-1.0-SNAPSHOT.jar 
+  111  ./startup.sh 
+  112  ls
+  113  cd plugins/
+  114  ls
+  115  ls restinpieces-1.0-SNAPSHOT.jar 
+  116  ls -l restinpieces-1.0-SNAPSHOT.jar
+  117  cd ..
+  118  ls
+  119  more startup.sh 
+  120  ls -l /home/escobar/irad/pluginsminecraft-com/restinpieces/restinpieces/target/restinpieces-1.0-SNAPSHOT.jar
+  121  ls -lt
+  122  lls -lt | head
+  123  ls
+  124  ./startup.sh 
+  125  sudo sshd
+  126  sudo systemctl status ssh
+  127  sudo systemctl status ssh
+  128  sudo systemctl start ssh
+  129       sudo service ssh start 
+  130  ls
+  131  pwd
+  132  ls
+  133  ls -l restinpieces-1.0-SNAPSHOT.jar 
+  134  ls restinpieces-1.0-SNAPSHOT.jar
+  135  pwd
+  136  git clone HenryEscobar/public-notes
+  137  git clone git@github.com:HenryEscobar/public-notes.git
+  138  ls
+  139  cd public-notes/
+  140  ls
+  141  git status
+  142  ls
+  143  ls
+  144  cd python/
+  145  ls
+  146  cd library/
+  147  ls
+  148  cat cli_argparse.py 
+  149  ls
+  150  cd python/
+  151  ls
+  152  cd make_virtual_env 
+  153  ls
+  154  cat make_virtual_env 
+  155  sh make_virtual_env 
+  156  sudo apt-get install python3-venv
+  157  sudo apt-get update
+  158  sh make_virtual_env 
+  159  apt-geet install python3-venev
+  160  apt-geet install python3-venv
+  161  apt-get install python3-venv
+  162  sudo apt-get install python3-venv
+  163  sudo apt-get install python3-venv
+  164  sh make_virtual_env 
+  165  ls
+  166  ls
+  167  ls -la
+  168  ln -s ../.venv .
+  169  ls
+  170  ls -al ..
+  171  ls -la ..
+  172  ls
+  173  ls -la
+  174  rm .venv
+  175  cd ..
+  176  ln -s python/venv/ .venv
+  177  ls -la
+  178  cd .venv
+  179  ls
+  180  pwd -P
+  181  cd
+  182  cd irad/public-notes/python/
+  183  ls
+  184  cd venv
+  185  ls
+  186  pwd
+  187  cd bin/
+  188  ls
+  189  pwd
+  190  cd ../..
+  191  ls
+  192  cd ..
+  193  ls
+  194  rm .venv
+  195  ls
+  196  source /home/escobar/irad/public-notes/python/venv/bin/activate
+  197  /bin/python3 /home/escobar/irad/public-notes/python/library/cli_argparse.py
+  198  tmux new -s code
+  199  git status
+  200  pwd
+  201  git 
+  202  git status
+  203  cd ..
+  204  ls
+  205  mkdir terraform-tutorial
+  206  sudo apt-get update && sudo apt-get install -y gnupg software-properties-common curl
+  207  curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
+  208  sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
+  209  sudo apt-get update && sudo apt-get install terraform
+  210  terraform -help
+  211  terraform -help plan
+  212  which terraform
+  213  touch ~/.bashrc
+  214  terraform -install-autocomplete
+  215  mkdir learn-terraform-docker-container
+  216  cd learn-terraform-docker-container
+  217  pwd
+  218  cat > main.tf
+  219  terraform init
+  220  ls
+  221  git status
+  222  tmux new -s terraform
+  223  ls
+  224  ls
+  225  cd learn-terraform-docker-container/
+  226  terraform plan
+  227  terraform apply
+  228  docker ps
+  229  terraform destroy
+  230  curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+  231  az login
+  232  az login --use-device-code
+  233  cd ..
+  234  history
+  235  history > history.out
+  236  mkdir learn-terraform-azure
+  237  cd learn-terraform-azure
+  238  cat > main.tf
+  239  terraform init
+  240  terraform fmt
+  241  ls
+  242  terraform validate
+  243  terraform apply
+  244  terraform apply
+  245  terraform show
+  246  terraform state list
+  247  terraform statee
+  248  terraform state
+  249  terraform apply
+  250  terraform apply
+  251  terraform fmt -recurisive
+  252  terraform fmt -recursive
+  253  terraform apply
+  254  terraform show
+  255  terraform state list
+  256  terraform destroy
+  257  ls
+  258  cat > variables.tf
+  259  terraform apply -var "resource_group_name=myNewResourceGroupName"
+  260  terraform apply -var "resource_group_name=myNewResourceGroupName"
+  261  cat > outputs.tf
+  262  terraform apply 
+  263  terraform output resource_group_id
+  264   
+  265  terraform output resource_group_id
+  266  echo "NICE ^^^"
+  267  cd ..
+  268  ls
+  269  mkdir learn-terraform-azure-instance
+  270  cd learn-terraform-azure-instance
+  271  cat > example.tf
+  272  cd ..
+  273  terraform fmt -recursive
+  274  ls
+  275  mkdir history
+  276  cd history/
+  277  history > history.out
+  278  terraform init
+  279  pwd
+  280  cd ..
+  281  ls
+  282  terraform fmt -recursive
+  283  cd learn-terraform-azure-instance/
+  284  ls
+  285  history | grep terraform
+  286  terraform validate
+  287  terraform init
+  288  terraform login
+  289  terraform init
+  290  pwd
+  291  terraform init
+  292  pwd
+  293  terraform init
+  294  echo "make sure to visit https://app.terraform.io/app/organizations to create org"
+  295  ls
+  296  ls
+  297  ls ..
+  298  ls
+  299  az login
+  300  az login --use-device-code
+  301  az account list
+  302  az account set --subscription="aa103bb2-3a26-4954-ba1d-7ac0229cda57"
+  303  az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/aa103bb2-3a26-4954-ba1d-7ac0229cda57"
+  304  cat > ~/notes/azure-creds
+  305  mkdir ~/notes
+  306  cat > ~/notes/azure-creds
+  307  echo "Worked on https://app.terraform.io/app/learn-terraform-azure-instance/workspaces/Example-Workspace/variables"
+  308  terraform apply
+  309  terraform init
+  310  terraform apply
+  311  cd ../learn-terraform-azure
+  312  terraform init
+  313  terraform init
+  314  cd ../learn-terraform-azure-instance/
+  315  terraform apply
+  316  terraform apply
+  317  pwd
+  318  cd ..
+  319  ls
+  320  cd learn-terraform-azure
+  321  terraform delete
+  322  terraform delete
+  323  terraform --help
+  324  terraform destroy
+  325  terraform destroy
+  326  cd ../learn-terraform-azure-instance/
+  327  terraform apply
+  328  terraform destroy
+  329  ls
+  330  history > ../history/history.out2

@@ -5,6 +5,12 @@ terraform {
       version = "~> 2.65"
     }
   }
+  backend "remote" {
+    organization = "learn-terraform-azure-instance"
+    workspaces {
+      name = "Example-Workspace"
+    }
+  }
 
   required_version = ">= 0.14.9"
 }
