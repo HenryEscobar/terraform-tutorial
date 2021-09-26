@@ -21,7 +21,7 @@ resource "azurerm_resource_group" "rg" {
     Enviroment = "Terraform Getting Started"
     Team       = "Devops/Henry"
   }
-}s
+}
 
 # Create a virtual network
 resource "azurerm_virtual_network" "vnet" {
