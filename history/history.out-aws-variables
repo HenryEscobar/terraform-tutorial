@@ -1,0 +1,17 @@
+  334  git clone https://github.com/hashicorp/learn-terraform-variables.git
+  337  terraform init
+  338  terraform apply
+  340  vi variables.tf 
+  341  terraform apply
+  342  terraform console
+  343  terraform console
+  344  echo "^^^ VEY COOL"
+  345  echo "from https://learn.hashicorp.com/tutorials/terraform/variables?in=terraform/cli"
+  346  terraform console
+  349  terraform apply
+  350  cat > terraform.tfvars
+  352  terraform apply
+  353  terraform apply -var='resource_tags={project="my-project",environment="development"}'
+  354  terraform destroy
+  355  history
+  356  history > ../history/history.out-aws-variables
